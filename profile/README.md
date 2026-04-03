@@ -23,3 +23,5 @@ Model
 ----
 <img width="255" height="255" alt="Python-logo-notext svg" src="https://github.com/user-attachments/assets/5f138be1-906d-4e34-a56e-b3673aef0823" />
 
+Scheme: 
+==================
