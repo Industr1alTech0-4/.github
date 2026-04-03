@@ -33,3 +33,4 @@ Data Base scheme:
 
 About frontend:
 ---
+https://www.figma.com/design/jtTKB9kV2BVOeEYYzWt2Bo/Untitled?node-id=0-1&p=f&t=sGPAqH80XZ17g2lc-0
