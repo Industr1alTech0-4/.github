@@ -25,3 +25,4 @@ Model
 
 Scheme: 
 ==================
+<img width="891" height="362" alt="Диаграмма без названия drawio" src="https://github.com/user-attachments/assets/994e287e-eac7-4e84-98b4-d214bd07a234" />
