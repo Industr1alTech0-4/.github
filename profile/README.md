@@ -30,3 +30,6 @@ Scheme:
 Data Base scheme:
 ----
 <img width="491" height="251" alt="Диаграмма без названия drawio(1)" src="https://github.com/user-attachments/assets/f9e2c353-cd9a-46af-9bf5-1312a6e003c8" />
+
+About frontend:
+---
