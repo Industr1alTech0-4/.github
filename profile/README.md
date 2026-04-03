@@ -17,4 +17,9 @@ Frontend
 
 Database
 ----
-<img width="255" height="255" alt="Postgresql_elephant svg" src="https://github.com/user-attachments/assets/9d4c80dd-e87a-439d-b09f-aaf3065c9399" />
+<img width="255" height="255" alt="Postgresql_elephant svg" src="https://github.com/user-attachments/assets/9d4c80dd-e87a-439d-b09f-aaf3065c9399" /> 
+
+Model 
+----
+<img width="255" height="255" alt="Python-logo-notext svg" src="https://github.com/user-attachments/assets/5f138be1-906d-4e34-a56e-b3673aef0823" />
+
