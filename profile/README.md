@@ -31,6 +31,6 @@ Data Base scheme:
 ----
 <img width="491" height="251" alt="Диаграмма без названия drawio(1)" src="https://github.com/user-attachments/assets/f9e2c353-cd9a-46af-9bf5-1312a6e003c8" />
 
-About frontend:
+About frontend (concept) :
 ---
 https://www.figma.com/design/jtTKB9kV2BVOeEYYzWt2Bo/Untitled?node-id=0-1&p=f&t=sGPAqH80XZ17g2lc-0
