@@ -1,8 +1,11 @@
 ## Предсказание поломки индустриальной помпы (planet of lana)
 
-###tech stack
+tech stack
+---------
 
-#Frontend 
+Frontend 
+--------
 
-https://www.google.com/imgres?q=react%20png&imgurl=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Freact-1-logo-png-transparent.png&imgrefurl=https%3A%2F%2Ffreebiesupply.com%2Flogos%2Freact-logo-2%2F&docid=9LQ0BetK91HdqM&tbnid=sSnOfjSXVSMf4M&vet=12ahUKEwjJrvqdy9KTAxXjFhAIHXIfEhYQnPAOegQILBAB..i&w=2400&h=2400&hcb=2&ved=2ahUKEwjJrvqdy9KTAxXjFhAIHXIfEhYQnPAOegQILBAB
+
+<img width="225" height="225" alt="images" src="https://github.com/user-attachments/assets/0e3bc485-dc40-4eb1-9577-7f82651622b4" />
 
