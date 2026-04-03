@@ -26,3 +26,7 @@ Model
 Scheme: 
 ==================
 <img width="891" height="362" alt="Диаграмма без названия drawio" src="https://github.com/user-attachments/assets/994e287e-eac7-4e84-98b4-d214bd07a234" />
+
+Data Base schme:
+----
+<img width="491" height="251" alt="Диаграмма без названия drawio(1)" src="https://github.com/user-attachments/assets/f9e2c353-cd9a-46af-9bf5-1312a6e003c8" />
