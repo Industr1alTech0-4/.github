@@ -29,7 +29,8 @@ Scheme:
 
 Data Base scheme:
 ----
-<img width="491" height="252" alt="Диаграмма без названия-Страница-1 drawio(2)" src="https://github.com/user-attachments/assets/4e2342c1-0332-4107-b29d-ff142348075d" />
+<img width="491" height="252" alt="Диаграмма без названия-Страница-1 drawio(1)" src="https://github.com/user-attachments/assets/c692f759-c8d1-446e-96ba-975ac19a21f1" />
+
 
 
 About frontend (concept) :
