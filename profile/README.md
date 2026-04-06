@@ -29,7 +29,7 @@ Scheme:
 
 Data Base scheme:
 ----
-<img width="491" height="252" alt="Диаграмма без названия-Страница-1 drawio(1)" src="https://github.com/user-attachments/assets/c692f759-c8d1-446e-96ba-975ac19a21f1" />
+<img width="531" height="292" alt="Диаграмма без названия-Страница-1 drawio(1)" src="https://github.com/user-attachments/assets/cad8a0ee-ad6f-488b-880b-465a6e93e751" />
 
 
 
